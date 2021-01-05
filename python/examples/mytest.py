@@ -296,6 +296,7 @@ if __name__ == '__main__':
 #            walk(strip,Color(50,50,50),15)
 #            walk(strip,Color(120,120,120),2)
 #            walkback(strip,Color(120,120,120),2)
+#           ^ fast walks make my cat chase the light
             print ('Morse code')
             morseloop(strip,Color(127,0,0),'MERRY CHRISTMAS',50)
             print ('Blink.')
